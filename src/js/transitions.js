@@ -22,12 +22,10 @@ class Fade extends Highway.Transition {
             {
                 left: '-100%',
                 onComplete: function() {
-                    
                     done()
                 }
             }
         )
-        //done()
     }
 }
 
