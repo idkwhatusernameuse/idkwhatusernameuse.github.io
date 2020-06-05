@@ -1,0 +1,15 @@
+{
+  "name": "personalsite",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "cssnano": "^4.1.10",
+    "sass": "^1.26.7"
+  },
+  "dependencies": {
+    "@dogstudio/highway": "^2.2.1",
+    "gsap": "^3.3.0"
+  }
+}
