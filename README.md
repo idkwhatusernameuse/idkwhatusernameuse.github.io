@@ -1,3 +1,5 @@
+# Old website. See the "senpai" branch for the new one
+
 # idkwhatusernameuse.github.io
 
 This is my personal website. The source files are in the src/ folder. The files that are in this directory are the "final"/production files created through `parcel build index.html`
