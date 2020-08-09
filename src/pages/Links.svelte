@@ -39,6 +39,7 @@
     title="Steam"
     src="images/steam.svg"
     link="https://steamcommunity.com/id/idkwhatusernameuse" />
-
+    
+  <p>Mastodon: @idkwhatusernameuse@mastodon.online</p>
   <p>Discord: idkwhatusernameuse#7097</p>
 </div>
