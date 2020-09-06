@@ -16,7 +16,7 @@
         description="Alles Micro client (WIP)"
         image="images/podium.png"
         textColor="#3D90CD"
-        on:click={() => open('https://github.com/idkwhatusernameuse/Podium')}/>
+        on:click={() => open('https://github.com/idkwuu/Podium')}/>
 
     <!-- svelte-ignore missing-declaration -->
     <Project title="The A Keyboard"

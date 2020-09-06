@@ -22,7 +22,7 @@
   <Link
     title="GitHub"
     src="images/github.png"
-    link="https://github.com/idkwhatusernameuse" />
+    link="https://github.com/idkwuu" />
   <Link
     title="Reddit"
     src="images/reddit.svg"
