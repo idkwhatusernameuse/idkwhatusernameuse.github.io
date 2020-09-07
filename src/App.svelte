@@ -35,7 +35,7 @@
 <div id="main">
   <Profile />
   <div id="buttons">
-    <Button text="Projects" on:click={openProfileContainer} />
+    <Button text="Personal projects" on:click={openProfileContainer} />
     <Button text="Links" on:click={openLinksContainer} />
   </div>
 
