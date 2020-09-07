@@ -11,6 +11,8 @@
 </style>
 
 <div id="links">
+  <p>These are the accounts that I mostly use</p>
+
   <Link
     title="Twitter"
     src="images/twitter.svg"
@@ -36,6 +38,5 @@
     src="images/steam.svg"
     link="https://steamcommunity.com/id/idkwuu" />
     
-  <p>Mastodon: @idkwhatusernameuse@mastodon.online</p>
   <p>Discord: idkwuu#7097</p>
 </div>

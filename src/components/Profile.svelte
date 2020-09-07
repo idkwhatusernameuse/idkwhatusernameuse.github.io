@@ -21,7 +21,7 @@
   <img class="shadow" src="images/profile.jpg" height="150" alt="Profile" />
   <div id="text">
     <h1>René Antonio</h1>
-    <p>aka. idkwhatusernameuse</p>
-    <p>I'm a 17 y.o. boy from Mexico that likes programming, After Effects and procrastination.</p>
+    <p>(idkwuu)</p>
+    <p>17 y.o. | He | Android app developer</p>
   </div>
 </div>
